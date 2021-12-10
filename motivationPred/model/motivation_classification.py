@@ -1,5 +1,3 @@
-from sklearn import svm
-from sklearn.feature_extraction.text import TfidfVectorizer
 import os
 import pickle
 
